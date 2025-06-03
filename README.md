@@ -5,6 +5,8 @@
 ## 🔥 STATS:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasta-lover69&show_icons=true)
 
+## ✨ TOP LANGS:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasta-lover69)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
