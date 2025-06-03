@@ -8,6 +8,9 @@
 ## ✨ TOP LANGS:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasta-lover69)
 
+## 📊 ACTIVITY GRAPH:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pasta-lover69&theme=github-compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
